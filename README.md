@@ -28,7 +28,7 @@ Top-left menu > Cloud9 > Preferences > Experimental > Files > Auto-Save > **swit
 You will be prompted to restart the workspace.  Go ahead and **do that**.
 
 #### Verifying your connection to Github
-Type `git config --list`.  You should see your name and email.  If you don't, type these two commands with your information:
+Type `git config --list`.  You should see your name and email.  ONLY IF you don't, type these two commands with your information:
 ```bash
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
