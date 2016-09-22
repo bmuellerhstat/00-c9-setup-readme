@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Create a Ruby workspace
-2. Get workspace for Ruby
+2. Get workspace ready for Ruby
 
 ## Creating your workspace
 
