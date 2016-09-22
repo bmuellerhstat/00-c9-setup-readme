@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Create a Ruby workspace
-2. Prepare the workspace for Ruby
+2. Get workspace for Ruby
 
 ## Creating your workspace
 
@@ -13,6 +13,7 @@
 * Description: *whatever you want*
 * Visibility: leave as **Public**
 * Template: select **Ruby**
+* **Create workspace**
 
 ## Getting your workspace ready
 
