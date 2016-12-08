@@ -41,4 +41,4 @@ mkdir 00-intro 01-variables-methods 02-conditionals 03-loops 04-arrays-hashes 05
 ```
 
 ### Now you're ready!
-Just make sure you stay organized!
+Just make sure you stay organized! 
