@@ -35,9 +35,9 @@ git config --global user.email johndoe@example.com
 ```
 
 #### Make the directories where your labs will live
-So far, there are 6 units planned.  Here's a quick way to make all 6 folders at once:  
+There are 7 main units planned.  Here's a quick way to make all 7 folders at once:  
 ```bash
-mkdir 00-intro 01-variables-methods 02-conditionals 03-loops 04-arrays-hashes 05-applications 06-oo
+mkdir 00-intro 01-variables-methods 02-conditionals 03-loops 04-arrays-hashes 05-applications 06-oo 07-sinatra
 ```
 
 ### Now you're ready!
